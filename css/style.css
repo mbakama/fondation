@@ -7380,7 +7380,7 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored span {
     border-color: #f86f2d; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #f86f2d; }
+    color: #78d5ef; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
@@ -7399,7 +7399,7 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #f86f2d !important; }
+      color: #78d5ef !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
       background: #f86f2d;
@@ -8243,7 +8243,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #f86f2d !important; }
+  background: #78d5ef !important; }
 
 .ftco-section .ftco-sub-title {
   font-size: 16px;
@@ -8823,7 +8823,7 @@ textarea.form-control {
       background: #f86f2d; }
 
 .contact-section .contact-info p a {
-  color: #fa8f3d; }
+  color: #78d5ef; }
 
 .contact-section .contact-info p span {
   color: #000; }
