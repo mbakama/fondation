@@ -7287,7 +7287,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #f86f2d; }
+  color: #78d5ef; }
   a:hover {
     text-decoration: none;
     color: #f86f2d; }
@@ -8546,7 +8546,7 @@ textarea.form-control {
       .blog-entry .text .time-loc span {
         color: #96a1af; }
         .blog-entry .text .time-loc span i {
-          color: #f86f2d; }
+          color: #78d5ef; }
   .blog-entry .meta > div {
     display: inline-block;
     margin-right: 5px;
