@@ -7704,11 +7704,14 @@ h1, h2, h3, h4, h5,
     padding: 30px;
     color: rgba(0, 0, 0, 0.7); }
     .ftco-intro .block-18.color-1 {
-      background: #f86f2d; }
+      /* background: #f86f2d; */
+    background: #2db1f8; }
     .ftco-intro .block-18.color-2 {
-      background: #fa8f3d; }
+      background: #37cffa;}
+      /* background: #fa8f3d; } */
     .ftco-intro .block-18.color-3 {
-      background: #faaa3a; }
+      /* background: #faaa3a;  */
+    background: #84dff8;}
     .ftco-intro .block-18 .text strong {
       font-size: 60px;
       color: #000;
@@ -7725,7 +7728,9 @@ h1, h2, h3, h4, h5,
   border-radius: 50%; }
   .services .icon span {
     font-size: 50px;
-    color: #f86f2d; }
+    /* color: #f86f2d;  */
+    color: #1aa9f0;
+  }
 
 .services h3 {
   font-size: 20px;
